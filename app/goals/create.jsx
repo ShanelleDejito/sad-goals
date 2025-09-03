@@ -22,7 +22,7 @@ const Create = () => {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.title}>Create a New Goal</Text>
+      <Text style={styles.title}>Create a New Goals</Text>
 
       <TextInput
         style={styles.input}
